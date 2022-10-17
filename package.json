@@ -1,7 +1,7 @@
 {
-  "name": "hast-util-from-parse5",
-  "version": "7.1.0",
-  "description": "hast utility to transform from Parse5’s AST",
+  "name": "hast-util-from-htmlparser2",
+  "version": "0.0.1",
+  "description": "hast utility to transform from htmlparser2’s AST",
   "license": "MIT",
   "keywords": [
     "unist",
@@ -13,8 +13,8 @@
     "change",
     "ast"
   ],
-  "repository": "syntax-tree/hast-util-from-parse5",
-  "bugs": "https://github.com/syntax-tree/hast-util-from-parse5/issues",
+  "repository": "milahu/hast-util-from-htmlparser2",
+  "bugs": "https://github.com/milahu/hast-util-from-htmlparser2/issues",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/unified"
